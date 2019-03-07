@@ -1,0 +1,162 @@
+body {
+    background-color: whitesmoke;
+    resize: both;
+    width: auto;
+}
+header {
+    background-color: silver;
+    border-radius: 8px;
+    width: auto;
+}
+.Imagen1 {
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.Titulo {
+    position: relative;
+    top: -100px;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: calibri light;
+    font-size: 30px;
+}
+h2 {
+    color: black;
+    font-family: calibri light;
+    font-size: 28px;
+}
+h3 {
+    color: black;
+    font-family: calibri light;
+    font-size: 22px
+}
+p {
+    color: black;
+    font-family: calibri;
+    font-size: 18px;
+    text-align: justify;
+}
+.Enlaces1 {
+    text-align: center;
+    font-family: calibri;
+    background-color: silver;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    float: right;
+    border: 1px;
+    border-radius: 8px;
+    position: relative;
+    top: -15px;
+}
+.Contexto {
+    position: relative;
+    top: 120px;
+    left: 30px;
+}
+.Enlaces2I {
+    position: relative;
+    top: 300px;
+    text-align: center;
+    font-family: calibri;
+    background-color: silver;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    border: 1px;
+    border-radius: 8px;
+}
+.Conocimientos {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.Enlaces2K {
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-family: calibri;
+    background-color: silver;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    border: 1px;
+    border-radius: 8px;
+}
+.Enlaces2C {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-family: calibri;
+    background-color: silver;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    border: 1px;
+    border-radius: 8px;
+}
+.Contacto {
+    position: relative;
+    top: 30px;
+    left: 25px;
+}
+label {
+    display: inline-block;
+    width: 300px;
+    color: black;
+    font-family: calibri;
+    font-size: 18px;
+}
+input {
+    width: 200px;
+}
+legend {
+    color: black;
+    font-family: calibri;
+    font-size: 18px;
+}
+.BotonEnviar {
+    width: 100px;
+    position: relative;
+    left: 200px;
+}
+.BotonBorrar {
+    width: 100px;
+    position: relative;
+    left: 300px;
+    top: -20.5px
+}
+fieldset {
+    width: 600px;
+}
+textarea {
+    position: relative;
+    left: 135px;
+}
+.Menu {
+    position: relative;
+    top: 40px;
+    font-family: calibri;
+    font-size: 14px;
+}
+.Definiciones {
+    position: relative;
+    top: 40px;
+    left: 30px;
+    width: 1200px;
+    text-align: justify;
+}
+dt {
+    font-family: Calibri light;
+    font-size: 17px;
+    font-style: italic;
+}
+dd {
+    font-family: calibri;
+}
